@@ -9,6 +9,6 @@ public class Golem extends Hero{
 
     @Override
     public void applySuperAbility(Boss boss, Hero[] heroes) {
-        System.out.println("Антонио преминил супсобность");
+        System.out.println("Антонио преминил супсобность: " );
     }
 }
